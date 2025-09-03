@@ -8,4 +8,4 @@
 - add react-router-dom package
 - create BrowserRouter
 - Create parent-child routes and <Outlet />
-- create a footer
+- create a footer 
